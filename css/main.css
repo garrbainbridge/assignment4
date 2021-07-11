@@ -1,9 +1,23 @@
-img {
-  position:fixed;
+.solo {
+  position:absolute;
+  border-radius: 10px;
 }
-p {
+.top p {
     font-size: 17px;
     color: peachpuff;
     position: absolute;
     font-weight: bold;
+}
+img.big {
+    float:right;
+}
+body {
+    max-width: 900px;
+    min-width: 850px;
+    overflow: scroll;
+}
+.right p {
+    position: relative;
+    top: 515px;
+    left: 450px;
 }
