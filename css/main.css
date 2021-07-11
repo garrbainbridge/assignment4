@@ -1,0 +1,9 @@
+img {
+  position:fixed;
+}
+p {
+    font-size: 17px;
+    color: peachpuff;
+    position: absolute;
+    font-weight: bold;
+}
