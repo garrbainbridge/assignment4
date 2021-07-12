@@ -21,3 +21,24 @@ body {
     top: 515px;
     left: 450px;
 }
+li {
+    display: inline;
+    transition: .3s;
+
+}
+.top ul {
+    font-size: 17px;
+    color: black;
+    background: tan;
+    margin: 0;
+    padding:0;
+    position: absolute;
+    font-weight: bold;
+    list-style-type: none;
+    text-align: center;
+  }
+a:hover{
+  background: black;
+  color: tan;
+  transition: .3s;
+}
